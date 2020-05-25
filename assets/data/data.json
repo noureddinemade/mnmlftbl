@@ -1,0 +1,2848 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "name": "Roberto Carlos",
+            "number": "6",
+            "team": "Brazil",
+            "position": "offensive left back",
+            "competition": {
+                "year": "1998",
+                "title": "World Cup",
+                "location": "France"
+            },
+            "nationality": "Brazil",
+            "kit": [
+                {
+                    "colours": ["yellow","green","blue","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "defender defence national",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "bra",
+            "order": 1
+        },
+        {
+            "id": 2,
+            "name": "David Beckham",
+            "number": "7",
+            "team": "Manchester United",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2003",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "England",
+            "kit": [
+                {
+                    "colours": ["red","black","white"],
+                    "brand": "Nike",
+                    "sponsor": "Vodafone",
+                    "captain": false
+                }
+            ],
+            "tags": "epl club forward becks",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "mun",
+            "order": 1
+        },
+        {
+            "id": 3,
+            "name": "Noureddine Naybet",
+            "number": "4",
+            "team": "Deportivo de La Coruña",
+            "position": "center back",
+            "competition": {
+                "year": "2003",
+                "title": "La Liga",
+                "location": "Spanish"
+            },
+            "nationality": "Morocco",
+            "kit": [
+                {
+                    "colours": ["blue","white"],
+                    "brand": "Jorma",
+                    "sponsor": "Fadesa",
+                    "captain": false
+                }
+            ],
+            "tags": "defender defence club maroc",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "dep",
+            "order": 1
+        },
+        {
+            "id": 4,
+            "name": "Franck Ribéry",
+            "number": "22",
+            "team": "France",
+            "position": "winger",
+            "competition": {
+                "year": "2006",
+                "title": "World Cup",
+                "location": "Germany"
+            },
+            "nationality": "France",
+            "kit": [
+                {
+                    "colours": ["red","white","blue"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national forward wc",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "fra",
+            "order": 1
+        },
+        {
+            "id": 5,
+            "name": "Ronaldo",
+            "number": "9",
+            "team": "Brazil",
+            "position": "striker",
+            "competition": {
+                "year": "2002",
+                "title": "World Cup",
+                "location": "South Korea & Japan"
+            },
+            "nationality": "Brazil",
+            "kit": [
+                {
+                    "colours": ["yellow","green","blue","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national forward El Fenomeno wc",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "bra",
+            "order": 1
+        },
+        {
+            "id": 6,
+            "name": "Luís Figo",
+            "number": "7",
+            "team": "Portugal",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2002",
+                "title": "World Cup",
+                "location": "South Korea & Japan"
+            },
+            "nationality": "Portugal",
+            "kit": [
+                {
+                    "colours": ["yellow","green","maroon","red", "gold"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national winger forward wc",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "por",
+            "order": 1
+        },
+        {
+            "id": 7,
+            "name": "Zinedine Zidane",
+            "number": "10",
+            "team": "France",
+            "position": "midfielder",
+            "competition": {
+                "year": "1998",
+                "title": "World Cup",
+                "location": "France"
+            },
+            "nationality": "France",
+            "kit": [
+                {
+                    "colours": ["red","white","blue"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national attacking forward wc",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "fra",
+            "order": 1
+        },
+        {
+            "id": 8,
+            "name": "Xavi",
+            "number": "6",
+            "team": "FC Barcelona",
+            "position": "midfielder",
+            "competition": {
+                "year": "2006",
+                "title": "La Liga",
+                "location": "Spanish"
+            },
+            "nationality": "Spain",
+            "kit": [
+                {
+                    "colours": ["maroon","navy","red","blue"],
+                    "brand": "Nike",
+                    "sponsor": "UNICEF",
+                    "captain": false
+                }
+            ],
+            "tags": "club",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "bar",
+            "order": 1
+        },
+        {
+            "id": 9,
+            "name": "Harry Kewell",
+            "number": "10",
+            "team": "Leeds United",
+            "position": "forward",
+            "competition": {
+                "year": "2002",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Australia",
+            "kit": [
+                {
+                    "colours": ["yellow","blue"],
+                    "brand": "Nike",
+                    "sponsor": "Strongbow",
+                    "captain": false
+                }
+            ],
+            "tags": "epl club attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "lds",
+            "order": 1
+        },
+        {
+            "id": 10,
+            "name": "Roberto Baggio",
+            "number": "10",
+            "team": "Italy",
+            "position": "second striker",
+            "competition": {
+                "year": "1994",
+                "title": "World Cup",
+                "location": "USA"
+            },
+            "nationality": "Italy",
+            "kit": [
+                {
+                    "colours": ["blue","white","green","red"],
+                    "brand": "Diadora",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc ss forward Divin Codino Divine Ponytail",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ita",
+            "order": 1
+        },
+        {
+            "id": 11,
+            "name": "Edgar Davids",
+            "number": "8",
+            "team": "Netherlands",
+            "position": "midfielder",
+            "competition": {
+                "year": "2004",
+                "title": "Euro",
+                "location": "Portugal"
+            },
+            "nationality": "Netherlands",
+            "kit": [
+                {
+                    "colours": ["orange","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national pitbull EUFA dutch holland oranje",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ned",
+            "order": 1
+        },
+        {
+            "id": 12,
+            "name": "Hidetoshi Nakata",
+            "number": "10",
+            "team": "Japan",
+            "position": "midfielder",
+            "competition": {
+                "year": "2002",
+                "title": "World Cup",
+                "location": "South Korea & Japan"
+            },
+            "nationality": "Japan",
+            "kit": [
+                {
+                    "colours": ["blue","white","navy"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc forward attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "jpn",
+            "order": 1
+        },
+        {
+            "id": 13,
+            "name": "Franz Beckenbauer",
+            "number": "4",
+            "team": "West Germany",
+            "position": "sweeping defender",
+            "competition": {
+                "year": "1970",
+                "title": "World Cup",
+                "location": "Mexico"
+            },
+            "nationality": "West Germany",
+            "kit": [
+                {
+                    "colours": ["black","white"],
+                    "brand": "",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national deutschland wc defence defender der kaiser",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ger",
+            "order": 1
+        },
+        {
+            "id": 14,
+            "name": "Thierry Henry",
+            "number": "14",
+            "team": "Arsenal FC",
+            "position": "striker",
+            "competition": {
+                "year": "2004",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "France",
+            "kit": [
+                {
+                    "colours": ["red","white"],
+                    "brand": "Nike",
+                    "sponsor": "O2",
+                    "captain": false
+                }
+            ],
+            "tags": "epl club french titou titi tezza",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ars",
+            "order": 1
+        },
+        {
+            "id": 15,
+            "name": "Jay-Jay Okocha",
+            "number": "10",
+            "team": "Nigeria",
+            "position": "midfielder",
+            "competition": {
+                "year": "2004",
+                "title": "African Cup of Nations",
+                "location": "Tunisia"
+            },
+            "nationality": "Nigeria",
+            "kit": [
+                {
+                    "colours": ["green","white"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": true
+                }
+            ],
+            "tags": "captain national forward attack nigerian tunis super eagles naija",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "nga",
+            "order": 1
+        },
+        {
+            "id": 16,
+            "name": "Alan Shearer",
+            "number": "9",
+            "team": "Newcastle United",
+            "position": "forward",
+            "competition": {
+                "year": "2003",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "England",
+            "kit": [
+                {
+                    "colours": ["black","white"],
+                    "brand": "Nike",
+                    "sponsor": "NTL:",
+                    "captain": true
+                }
+            ],
+            "tags": "captain epl striker attack smokey",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "new",
+            "order": 1
+        },
+        {
+            "id": 17,
+            "name": "Paul Scholes",
+            "number": "18",
+            "team": "Manchester United",
+            "position": "midfielder",
+            "competition": {
+                "year": "2002",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "England",
+            "kit": [
+                {
+                    "colours": ["red","black","white"],
+                    "brand": "Nike",
+                    "sponsor": "Vodafone",
+                    "captain": false
+                }
+            ],
+            "tags": "epl club schoilesy ginger prince",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "mun",
+            "order": 1
+        },
+        {
+            "id": 18,
+            "name": "Michael Ballack",
+            "number": "13",
+            "team": "FC Bayern Munich",
+            "position": "midfielder",
+            "competition": {
+                "year": "2003",
+                "title": "Bundasliga",
+                "location": "German"
+            },
+            "nationality": "Germany",
+            "kit": [
+                {
+                    "colours": ["red","white"],
+                    "brand": "Adidas",
+                    "sponsor": "T-Mobile",
+                    "captain": false
+                }
+            ],
+            "tags": "club deutschland attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "bay",
+            "order": 1
+        },
+        {
+            "id": 19,
+            "name": "Park Ji-Sung",
+            "number": "33",
+            "team": "PSV Eindhoven",
+            "position": "midfielder",
+            "competition": {
+                "year": "2004",
+                "title": "Champions League",
+                "location": "UEFA"
+            },
+            "nationality": "South Korea",
+            "kit": [
+                {
+                    "colours": ["red","black","white"],
+                    "brand": "Nike",
+                    "sponsor": "Phillips",
+                    "captain": false
+                }
+            ],
+            "tags": "club europe korean winger attack forward",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "psv",
+            "order": 1
+        },
+        {
+            "id": 20,
+            "name": "Jürgen Klinsmann",
+            "number": "18",
+            "team": "Germany",
+            "position": "striker",
+            "competition": {
+                "year": "1994",
+                "title": "World Cup",
+                "location": "USA"
+            },
+            "nationality": "Germany",
+            "kit": [
+                {
+                    "colours": ["yellow","red","black","white"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc deutschland flipper",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ger",
+            "order": 1
+        },
+        {
+            "id": 21,
+            "name": "Samuel Eto'o",
+            "number": "9",
+            "team": "FC Barcelona",
+            "position": "striker",
+            "competition": {
+                "year": "2006",
+                "title": "La Liga",
+                "location": "Spanish"
+            },
+            "nationality": "Cameroon",
+            "kit": [
+                {
+                    "colours": ["maroon","navy","blue","red"],
+                    "brand": "Nike",
+                    "sponsor": "UNICEF",
+                    "captain": false
+                }
+            ],
+            "tags": "cameroon african forward attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "bar",
+            "order": 1
+        },
+        {
+            "id": 22,
+            "name": "Zico",
+            "number": "10",
+            "team": "Brazil",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "1982",
+                "title": "World Cup",
+                "location": "Spain"
+            },
+            "nationality": "Brazil",
+            "kit": [
+                {
+                    "colours": ["yellow","green","blue","white"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc attack forward",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "bra",
+            "order": 1
+        },
+        {
+            "id": 23,
+            "name": "Gianluigi Buffon",
+            "number": "1",
+            "team": "Italy",
+            "position": "goalkeeper",
+            "competition": {
+                "year": "2006",
+                "title": "World Cup",
+                "location": "Germany"
+            },
+            "nationality": "Italy",
+            "kit": [
+                {
+                    "colours": ["yellow","navy","blue"],
+                    "brand": "Puma",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national italian gigi wc keeper goalie gloves",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ita",
+            "order": 1
+        },
+        {
+            "id": 24,
+            "name": "Sergej Barbarez",
+            "number": "10",
+            "team": "Hamburger SV",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2004",
+                "title": "Bundesliga",
+                "location": "German"
+            },
+            "nationality": "Bosnia and Herzegovina",
+            "kit": [
+                {
+                    "colours": ["red","white","blue","black"],
+                    "brand": "Nike",
+                    "sponsor": "ADIG",
+                    "captain": true
+                }
+            ],
+            "tags": "captain club bundasliga deutschland bosna",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "hsv",
+            "order": 1
+        },
+        {
+            "id": 25,
+            "name": "Diego Maradona",
+            "number": "10",
+            "team": "Argentina",
+            "position": "second striker",
+            "competition": {
+                "year": "1986",
+                "title": "World Cup",
+                "location": "Mexico"
+            },
+            "nationality": "Argentina",
+            "kit": [
+                {
+                    "colours": ["sky blue","white","black"],
+                    "brand": "Le Coq Sportif",
+                    "sponsor": false,
+                    "captain": true
+                }
+            ],
+            "tags": "captain national wc hand of god cósmico el diez el pibe de oro forward attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "arg",
+            "order": 1
+        },
+        {
+            "id": 26,
+            "name": "El Hadji Diouf",
+            "number": "11",
+            "team": "Senegal",
+            "position": "forward",
+            "competition": {
+                "year": "2002",
+                "title": "World Cup",
+                "location": "South Korea & Japan"
+            },
+            "nationality": "Senegal",
+            "kit": [
+                {
+                    "colours": ["green","gold","yellow","orange","white"],
+                    "brand": "Le Coq Sportif",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc striker winger",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "sen",
+            "order": 1
+        },
+        {
+            "id": 27,
+            "name": "George Best",
+            "number": "11",
+            "team": "Manchester United",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "1972",
+                "title": "Football League",
+                "location": "English"
+            },
+            "nationality": "England",
+            "kit": [
+                {
+                    "colours": ["red","white","black"],
+                    "brand": "",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "club el beatle bestie attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "mun",
+            "order": 1
+        },
+        {
+            "id": 28,
+            "name": "Francesco Totti",
+            "number": "10",
+            "team": "AS Roma",
+            "position": "forward",
+            "competition": {
+                "year": "2004",
+                "title": "Serie A",
+                "location": "Italian"
+            },
+            "nationality": "Italy",
+            "kit": [
+                {
+                    "colours": ["brown","orange","maroon","white","red","black"],
+                    "brand": "Diadora",
+                    "sponsor": "Mazda",
+                    "captain": true
+                }
+            ],
+            "tags": "captain king of rome Il Capitano Re di Roma",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "asr",
+            "order": 1
+        },
+        {
+            "id": 29,
+            "name": "Michael Owen",
+            "number": "10",
+            "team": "Liverpool FC",
+            "position": "striker",
+            "competition": {
+                "year": "2003",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "England",
+            "kit": [
+                {
+                    "colours": ["red","white"],
+                    "brand": "Reebok",
+                    "sponsor": "Carlsberg",
+                    "captain": false
+                }
+            ],
+            "tags": "epl club forward attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "liv",
+            "order": 1
+        },
+        {
+            "id": 30,
+            "name": "Shunsuke Nakamura",
+            "number": "25",
+            "team": "Celtic FC",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2006",
+                "title": "Champions League",
+                "location": "EUFA"
+            },
+            "nationality": "Japan",
+            "kit": [
+                {
+                    "colours": ["green","white"],
+                    "brand": "Nike",
+                    "sponsor": "Carling",
+                    "captain": false
+                }
+            ],
+            "tags": "club scottish premiership forward attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "cel",
+            "order": 1
+        },
+        {
+            "id": 31,
+            "name": "Fredrik Ljungberg",
+            "number": "8",
+            "team": "Arsenal FC",
+            "position": "winger",
+            "competition": {
+                "year": "2004",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Sweden",
+            "kit": [
+                {
+                    "colours": ["red","white"],
+                    "brand": "Nike",
+                    "sponsor": "O2",
+                    "captain": false
+                }
+            ],
+            "tags": "epl club gunners attack forward",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ars",
+            "order": 1
+        },
+        {
+            "id": 32,
+            "name": "Iker Casillas",
+            "number": "1",
+            "team": "FC Real Madrid",
+            "position": "goalkeeper",
+            "competition": {
+                "year": "2003",
+                "title": "Champions League",
+                "location": "UEFA"
+            },
+            "nationality": "Spain",
+            "kit": [
+                {
+                    "colours": ["yellow","gold","black","white"],
+                    "brand": "Adidas",
+                    "sponsor": "Siemens Mobile",
+                    "captain": false
+                }
+            ],
+            "tags": "club the saint san iker galácticos galacticos goalie keeper",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "rma",
+            "order": 1
+        },
+        {
+            "id": 33,
+            "name": "Miroslav Klose",
+            "number": "9",
+            "team": "Germany",
+            "position": "striker",
+            "competition": {
+                "year": "2006",
+                "title": "World Cup",
+                "location": "Germany"
+            },
+            "nationality": "Germany",
+            "kit": [
+                {
+                    "colours": ["white","black","red","yellow"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc attack forward salto",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ger",
+            "order": 1
+        },
+        {
+            "id": 34,
+            "name": "Mustapha Hadji",
+            "number": "7",
+            "team": "Morocco",
+            "position": "midfielder",
+            "competition": {
+                "year": "1998",
+                "title": "World Cup",
+                "location": "France"
+            },
+            "nationality": "Morocco",
+            "kit": [
+                {
+                    "colours": ["white","red","green"],
+                    "brand": "Puma",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc mous maroc atlas lions attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "mar",
+            "order": 1
+        },
+        {
+            "id": 35,
+            "name": "Eric Cantona",
+            "number": "7",
+            "team": "Manchester United",
+            "position": "forward",
+            "competition": {
+                "year": "1994",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "France",
+            "kit": [
+                {
+                    "colours": ["red","black","white"],
+                    "brand": "Umbro",
+                    "sponsor": "Sharp",
+                    "captain": false
+                }
+            ],
+            "tags": "epl club the king attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "mun",
+            "order": 1
+        },
+        {
+            "id": 36,
+            "name": "Alessandro Del Piero",
+            "number": "10",
+            "team": "Juventus",
+            "position": "forward",
+            "competition": {
+                "year": "2005",
+                "title": "Champions League",
+                "location": ""
+            },
+            "nationality": "Italy",
+            "kit": [
+                {
+                    "colours": ["black","white"],
+                    "brand": "Nike",
+                    "sponsor": "Tamoil",
+                    "captain": true
+                }
+            ],
+            "tags": "club eufa captain Il Fenomeno Vero attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "juv",
+            "order": 1
+        },
+        {
+            "id": 37,
+            "name": "Djibril Cissé",
+            "number": "9",
+            "team": "Liverpool FC",
+            "position": "striker",
+            "competition": {
+                "year": "2004",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "France",
+            "kit": [
+                {
+                    "colours": ["red","white"],
+                    "brand": "Reebok",
+                    "sponsor": "Carlsberg",
+                    "captain": false
+                }
+            ],
+            "tags": "epl club forward attack anfield",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "liv",
+            "order": 1
+        },
+        {
+            "id": 38,
+            "name": "Pavel Nedvěd",
+            "number": "11",
+            "team": "Czech Republic",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2006",
+                "title": "World Cup",
+                "location": "Germany"
+            },
+            "nationality": "Czech Republic",
+            "kit": [
+                {
+                    "colours": ["red","blue","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": true
+                }
+            ],
+            "tags": "captain national wc forward attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "cze",
+            "order": 1
+        },
+        {
+            "id": 39,
+            "name": "Clarence Seedorf",
+            "number": "10",
+            "team": "AC Milan",
+            "position": "midfielder",
+            "competition": {
+                "year": "2004",
+                "title": "Serie A",
+                "location": "Italian"
+            },
+            "nationality": "Netherlands",
+            "kit": [
+                {
+                    "colours": ["red","black"],
+                    "brand": "Adidas",
+                    "sponsor": "Opel",
+                    "captain": false
+                }
+            ],
+            "tags": "club attack forward Il professore",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "acm",
+            "order": 1
+        },
+        {
+            "id": 40,
+            "name": "Johan Cruyff",
+            "number": "14",
+            "team": "Ajax FC",
+            "position": "forward",
+            "competition": {
+                "year": "1982",
+                "title": "Eredivisie",
+                "location": "Dutch"
+            },
+            "nationality": "Netherlands",
+            "kit": [
+                {
+                    "colours": ["white","red"],
+                    "brand": "Le Coq Sportif",
+                    "sponsor": "TDK",
+                    "captain": false
+                }
+            ],
+            "tags": "club holland attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ajx",
+            "order": 1
+        },
+        {
+            "id": 41,
+            "name": "Ronaldinho",
+            "number": "11",
+            "team": "Brazil",
+            "position": "forward",
+            "competition": {
+                "year": "2002",
+                "title": "World Cup",
+                "location": "South Korea & Japan"
+            },
+            "nationality": "Brazil",
+            "kit": [
+                {
+                    "colours": ["blue","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc attack ronnie",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "bra",
+            "order": 1
+        },
+        {
+            "id": 42,
+            "name": "Gerd Müller",
+            "number": "13",
+            "team": "West Germany",
+            "position": "striker",
+            "competition": {
+                "year": "1970",
+                "title": "World Cup",
+                "location": "Mexico"
+            },
+            "nationality": "West Germany",
+            "kit": [
+                {
+                    "colours": ["white","black"],
+                    "brand": "",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc forward attack der bomber",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ger",
+            "order": 1
+        },
+        {
+            "id": 43,
+            "name": "Zlatan Ibrahimović",
+            "number": "9",
+            "team": "Ajax FC",
+            "position": "striker",
+            "competition": {
+                "year": "2002",
+                "title": "Champions League",
+                "location": ""
+            },
+            "nationality": "Sweden",
+            "kit": [
+                {
+                    "colours": ["white","red"],
+                    "brand": "Adidas",
+                    "sponsor": "ABN",
+                    "captain": false
+                }
+            ],
+            "tags": "club eufa forward attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ajx",
+            "order": 1
+        },
+        {
+            "id": 44,
+            "name": "Patrick Kluivert",
+            "number": "9",
+            "team": "Netherlands",
+            "position": "striker",
+            "competition": {
+                "year": "1998",
+                "title": "World Cup",
+                "location": "France"
+            },
+            "nationality": "Netherlands",
+            "kit": [
+                {
+                    "colours": ["orange","white","black"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc dutch holland oranje forward attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ned",
+            "order": 1
+        },
+        {
+            "id": 45,
+            "name": "Christian Vieri",
+            "number": "21",
+            "team": "Italy",
+            "position": "forward",
+            "competition": {
+                "year": "2002",
+                "title": "World Cup",
+                "location": "South Korea & Japan"
+            },
+            "nationality": "Italy",
+            "kit": [
+                {
+                    "colours": ["blue","white"],
+                    "brand": "Kappa",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc azzurri bobo attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ita",
+            "order": 1
+        },
+        {
+            "id": 46,
+            "name": "Romario",
+            "number": "11",
+            "team": "Brazil",
+            "position": "forward",
+            "competition": {
+                "year": "1994",
+                "title": "World Cup",
+                "location": "USA"
+            },
+            "nationality": "Brazil",
+            "kit": [
+                {
+                    "colours": ["yellow","green","blue","white"],
+                    "brand": "Umbro",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc cbf Baixinho attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "bra",
+            "order": 1
+        },
+        {
+            "id": 47,
+            "name": "George Weah",
+            "number": "9",
+            "team": "AC Milan",
+            "position": "striker",
+            "competition": {
+                "year": "1996",
+                "title": "Serie A",
+                "location": "Italian"
+            },
+            "nationality": "Liberia",
+            "kit": [
+                {
+                    "colours": ["red","black","white"],
+                    "brand": "Lotto",
+                    "sponsor": "Opel",
+                    "captain": false
+                }
+            ],
+            "tags": "club Rossoneri king african forward attack",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "acm",
+            "order": 1
+        },
+        {
+            "id": 48,
+            "name": "Gabriel Batistuta",
+            "number": "11",
+            "team": "Argentina",
+            "position": "striker",
+            "competition": {
+                "year": "1998",
+                "title": "World Cup",
+                "location": "France"
+            },
+            "nationality": "Argentina",
+            "kit": [
+                {
+                    "colours": ["sky blue","white","black"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc attack forward angel batigol",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "arg",
+            "order": 1
+        },
+        {
+            "id": 49,
+            "name": "Bobby Charlton",
+            "number": "9",
+            "team": "England",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "1966",
+                "title": "World Cup",
+                "location": "England"
+            },
+            "nationality": "England",
+            "kit": [
+                {
+                    "colours": ["red","white"],
+                    "brand": "",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "national wc",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "eng",
+            "order": 1
+        },
+        {
+            "id": 50,
+            "name": "Oliver Kahn",
+            "number": "1",
+            "team": "Germany",
+            "position": "goalkeeper",
+            "competition": {
+                "year": "2002",
+                "title": "World Cup",
+                "location": "South Korea & Japan"
+            },
+            "nationality": "Germany",
+            "kit": [
+                {
+                    "colours": ["blue","navy","white"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": true
+                }
+            ],
+            "tags": "captain national wc goalie keeper der titan olli",
+            "collection": "classic",
+            "dateAdded": "2016-09-15",
+            "class": "ger",
+            "order": 1
+        },
+        {
+            "id": 51,
+            "name": "Adam Lallana",
+            "number": "20",
+            "team": "Liverpool FC",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "England",
+            "kit": [
+                {
+                    "colours": ["red","yellow"],
+                    "brand": "New Balance",
+                    "sponsor": "Standard Chartered",
+                    "captain": false
+                }
+            ],
+            "tags": "forward club epl reds anfield",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "liv",
+            "order": 1
+        },
+        {
+            "id": 52,
+            "name": "Alexis Sanchez",
+            "number": "7",
+            "team": "Arsenal FC",
+            "position": "forward",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Chile",
+            "kit": [
+                {
+                    "colours": ["white","red"],
+                    "brand": "Puma",
+                    "sponsor": "Emirates",
+                    "captain": false
+                }
+            ],
+            "tags": "forward club epl gunners",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "ars",
+            "order": 1
+        },
+        {
+            "id": 53,
+            "name": "Andre Grey",
+            "number": "7",
+            "team": "Burnley FC",
+            "position": "striker",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "England",
+            "kit": [
+                {
+                    "colours": ["maroon","sky blue","white"],
+                    "brand": "Puma",
+                    "sponsor": "Dafabet",
+                    "captain": false
+                }
+            ],
+            "tags": "forward striker club forward",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "bur",
+            "order": 1
+        },
+        {
+            "id": 54,
+            "name": "Eden Hazard",
+            "number": "10",
+            "team": "Chelsea FC",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Belgium",
+            "kit": [
+                {
+                    "colours": ["blue","white"],
+                    "brand": "Adidas",
+                    "sponsor": "Yokohama Tyres",
+                    "captain": false
+                }
+            ],
+            "tags": "attack club epl forward blues",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "chl",
+            "order": 1
+        },
+        {
+            "id": 55,
+            "name": "Gastón Ramírez",
+            "number": "21",
+            "team": "Middlesbrough FC",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Uruguay",
+            "kit": [
+                {
+                    "colours": ["red","white"],
+                    "brand": "Adidas",
+                    "sponsor": "Ramsdens",
+                    "captain": false
+                }
+            ],
+            "tags": "attack club epl forward",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "mid",
+            "order": 1
+        },
+        {
+            "id": 56,
+            "name": "Zlatan Ibrahimović",
+            "number": "9",
+            "team": "Manchester United",
+            "position": "striker",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Sweden",
+            "kit": [
+                {
+                    "colours": ["red","white","black"],
+                    "brand": "Adidas",
+                    "sponsor": "Chevrolet",
+                    "captain": false
+                }
+            ],
+            "tags": "forward club epl",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "mun",
+            "order": 1
+        },
+        {
+            "id": 57,
+            "name": "Yaya Touré",
+            "number": "42",
+            "team": "Manchester City",
+            "position": "central midfielder",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Côte d’Ivoire",
+            "kit": [
+                {
+                    "colours": ["blue","white"],
+                    "brand": "Nike",
+                    "sponsor": "Etihad Airways",
+                    "captain": false
+                }
+            ],
+            "tags": "club epl ivory coast",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "mcy",
+            "order": 1
+        },
+        {
+            "id": 58,
+            "name": "Xherdan Shaqiri",
+            "number": "22",
+            "team": "Stoke City FC",
+            "position": "winger",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Switzerland",
+            "kit": [
+                {
+                    "colours": ["red","white"],
+                    "brand": "Macron",
+                    "sponsor": "Bet365",
+                    "captain": false
+                }
+            ],
+            "tags": "forward attack club epl swiss",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "stk",
+            "order": 1
+        },
+        {
+            "id": 59,
+            "name": "Wilfried Zaha",
+            "number": "11",
+            "team": "Crystal Palace FC",
+            "position": "winger",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Côte d’Ivoire",
+            "kit": [
+                {
+                    "colours": ["blue","red"],
+                    "brand": "nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "forward winger club attack",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "cry",
+            "order": 1
+        },
+        {
+            "id": 60,
+            "name": "Son Heung-min",
+            "number": "11",
+            "team": "Tottenham FC",
+            "position": "winger",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "South Korea",
+            "kit": [
+                {
+                    "colours": ["white","navy"],
+                    "brand": "Under Armour",
+                    "sponsor": "AIA",
+                    "captain": false
+                }
+            ],
+            "tags": "forward attack club epl sonny",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "tot",
+            "order": 1
+        },
+        {
+            "id": 61,
+            "name": "Sofiane Feghouli",
+            "number": "7",
+            "team": "Westham FC",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Algeria",
+            "kit": [
+                {
+                    "colours": ["blue","maroon","white"],
+                    "brand": "Umbro",
+                    "sponsor": "Betway",
+                    "captain": false
+                }
+            ],
+            "tags": "winger club epl",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "whu",
+            "order": 1
+        },
+        {
+            "id": 62,
+            "name": "Sofiane Boufal",
+            "number": "19",
+            "team": "Southhampton FC",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Morocco",
+            "kit": [
+                {
+                    "colours": ["red","white","black"],
+                    "brand": "Under Armour",
+                    "sponsor": "Virgin Media",
+                    "captain": false
+                }
+            ],
+            "tags": "winger attack forward morocco france club epl",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "shm",
+            "order": 1
+        },
+        {
+            "id": 63,
+            "name": "Salomón Rondón",
+            "number": "9",
+            "team": "West Bromwich Albion",
+            "position": "striker",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Venezuela",
+            "kit": [
+                {
+                    "colours": ["white","navy"],
+                    "brand": "Adidas",
+                    "sponsor": "K8 Group",
+                    "captain": false
+                }
+            ],
+            "tags": "forward attack club epl baggies",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "wba",
+            "order": 1
+        },
+        {
+            "id": 64,
+            "name": "Romelu Lukaku",
+            "number": "10",
+            "team": "Everton FC",
+            "position": "striker",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Belgium",
+            "kit": [
+                {
+                    "colours": ["blue","white"],
+                    "brand": "Umbro",
+                    "sponsor": "Chang",
+                    "captain": false
+                }
+            ],
+            "tags": "forward club attack epl toffees",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "eve",
+            "order": 1
+        },
+        {
+            "id": 65,
+            "name": "Robert Snodgrass",
+            "number": "10",
+            "team": "Hull City FC",
+            "position": "winger",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Scotland",
+            "kit": [
+                {
+                    "colours": ["orange","black"],
+                    "brand": "Umbro",
+                    "sponsor": "SportPesa",
+                    "captain": false
+                }
+            ],
+            "tags": "forward club epl tigers attack",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "hul",
+            "order": 1
+        },
+        {
+            "id": 66,
+            "name": "Riyad Mahrez",
+            "number": "26",
+            "team": "Leicester City FC",
+            "position": "winger",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Algeria",
+            "kit": [
+                {
+                    "colours": ["blue"],
+                    "brand": "Puma",
+                    "sponsor": "King Power",
+                    "captain": false
+                }
+            ],
+            "tags": "forward club epl foxes attack",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "lec",
+            "order": 1
+        },
+        {
+            "id": 67,
+            "name": "Noureddine Amrabat",
+            "number": "11",
+            "team": "Watford FC",
+            "position": "winger",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Morocco",
+            "kit": [
+                {
+                    "colours": ["yellow","black","red"],
+                    "brand": "Dryworld",
+                    "sponsor": "138.com",
+                    "captain": false
+                }
+            ],
+            "tags": "forward dutch club epl nordin maroc attack",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "wat",
+            "order": 1
+        },
+        {
+            "id": 68,
+            "name": "Nathan Aké",
+            "number": "5",
+            "team": "Bournemouth AFC",
+            "position": "center back",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Belgium",
+            "kit": [
+                {
+                    "colours": ["red","black"],
+                    "brand": "JD Sports",
+                    "sponsor": "Mansion.com",
+                    "captain": false
+                }
+            ],
+            "tags": "defence defender club epl",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "bou",
+            "order": 1
+        },
+        {
+            "id": 69,
+            "name": "Jermain Defoe",
+            "number": "18",
+            "team": "Sunderland FC",
+            "position": "striker",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "England",
+            "kit": [
+                {
+                    "colours": ["red","white","black","gold"],
+                    "brand": "Adidas",
+                    "sponsor": "Dafabet",
+                    "captain": false
+                }
+            ],
+            "tags": "forward club epl attack",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "sun",
+            "order": 1
+        },
+        {
+            "id": 70,
+            "name": "Gylfi Sigurðsson",
+            "number": "10",
+            "team": "Swansea FC",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2016",
+                "title": "Premier League",
+                "location": "English"
+            },
+            "nationality": "Iceland",
+            "kit": [
+                {
+                    "colours": ["white"],
+                    "brand": "Joma",
+                    "sponsor": "Beteast",
+                    "captain": false
+                }
+            ],
+            "tags": "attack forward club epl",
+            "collection": "PL1617",
+            "dateAdded": "2018-06-15",
+            "class": "swa",
+            "order": 1
+        },
+        {
+            "id": 71,
+            "name": "Aaron Mooy",
+            "number": "13",
+            "team": "Australia",
+            "position": "midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Australia",
+            "kit": [
+                {
+                    "colours": ["gold","yellow","green"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["dark green","lime"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack aussie socceroos wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "aus",
+            "order": 1
+        },
+        {
+            "id": 72,
+            "name": "Aleksandar Mitrovic",
+            "number": "9",
+            "team": "Serbia",
+            "position": "striker",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Serbia",
+            "kit": [
+                {
+                    "colours": ["red","white"],
+                    "brand": "Puma",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","red","blue"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "striker forward wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "ser",
+            "order": 1
+        },
+        {
+            "id": 73,
+            "name": "Aleksandr Golovin",
+            "number": "17",
+            "team": "Russia",
+            "position": "midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Russia",
+            "kit": [
+                {
+                    "colours": ["red","white","blue"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","navy"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "central wc attack",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "rus",
+            "order": 1
+        },
+        {
+            "id": 74,
+            "name": "Christian Eriksen",
+            "number": "10",
+            "team": "Denmark",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Denmark",
+            "kit": [
+                {
+                    "colours": ["red","white"],
+                    "brand": "Hummel",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","grey","red"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack forward wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "den",
+            "order": 1
+        },
+        {
+            "id": 75,
+            "name": "Eden Hazard",
+            "number": "10",
+            "team": "Belgium",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Belgium",
+            "kit": [
+                {
+                    "colours": ["yellow","red","black"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": true
+                },
+                {
+                    "colours": ["red","yellow","maroon"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": true
+                }
+            ],
+            "tags": "attack forward winger wc captain",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "bel",
+            "order": 1
+        },
+        {
+            "id": 76,
+            "name": "Emil Forsberg",
+            "number": "10",
+            "team": "Sweden",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Sweden",
+            "kit": [
+                {
+                    "colours": ["yellow","blue"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["blue","navy","yellow"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack forward winger wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "swe",
+            "order": 1
+        },
+        {
+            "id": 77,
+            "name": "Fahad Al-Mowallad",
+            "number": "19",
+            "team": "Saudi Arabia",
+            "position": "forward",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Saudi Arabia",
+            "kit": [
+                {
+                    "colours": ["green"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","green"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "striker winger forward wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "ksa",
+            "order": 1
+        },
+        {
+            "id": 78,
+            "name": "Giorgian De Arrascaeta",
+            "number": "10",
+            "team": "Uruguay",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Uruguay",
+            "kit": [
+                {
+                    "colours": ["blue","black"],
+                    "brand": "Puma",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","steel blue"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "winger attack wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "uru",
+            "order": 1
+        },
+        {
+            "id": 79,
+            "name": "Gylfi Sigurðsson",
+            "number": "10",
+            "team": "Iceland",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Iceland",
+            "kit": [
+                {
+                    "colours": ["blue","red","white"],
+                    "brand": "Errea",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","medium blue","red"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "winger attack  forward wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "ice",
+            "order": 1
+        },
+        {
+            "id": 80,
+            "name": "Hakim Ziyech",
+            "number": "7",
+            "team": "Morocco",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Morocco",
+            "kit": [
+                {
+                    "colours": ["crimson","green","white"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","crimson"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "winger attack forward wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "mar",
+            "order": 1
+        },
+        {
+            "id": 81,
+            "name": "James Rodríguez",
+            "number": "10",
+            "team": "Colombia",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Colombia",
+            "kit": [
+                {
+                    "colours": ["yellow","navy","red"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["navy","tomato"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "winger attack forward wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "col",
+            "order": 1
+        },
+        {
+            "id": 82,
+            "name": "João Mário",
+            "number": "10",
+            "team": "Portugal",
+            "position": "midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Portugal",
+            "kit": [
+                {
+                    "colours": ["red","green"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","grey"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack forward wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "por",
+            "order": 1
+        },
+        {
+            "id": 83,
+            "name": "Joel Campbell",
+            "number": "11",
+            "team": "Costa Rica",
+            "position": "forward",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Costa Rica",
+            "kit": [
+                {
+                    "colours": ["red","blue","white"],
+                    "brand": "New Balance",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","light grey","black"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "winger attack wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "crc",
+            "order": 1
+        },
+        {
+            "id": 84,
+            "name": "José Luis Rodríguez",
+            "number": "21",
+            "team": "Panama",
+            "position": "midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Panama",
+            "kit": [
+                {
+                    "colours": ["red","white"],
+                    "brand": "New Balance",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","navy"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack wc forward",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "pan",
+            "order": 1
+        },
+        {
+            "id": 85,
+            "name": "Karim Ansarifard",
+            "number": "10",
+            "team": "Iran",
+            "position": "forward",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Iran",
+            "kit": [
+                {
+                    "colours": ["white","red"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["red","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack winger wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "irn",
+            "order": 1
+        },
+        {
+            "id": 86,
+            "name": "Lionel Messi",
+            "number": "10",
+            "team": "Argentina",
+            "position": "a forward",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Argentina",
+            "kit": [
+                {
+                    "colours": ["white","sky blue","black"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": true
+                },
+                {
+                    "colours": ["black","white","sky blue"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": true
+                }
+            ],
+            "tags": "attack winger wc goat leo captain",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "arg",
+            "order": 1
+        },
+        {
+            "id": 87,
+            "name": "Marcelo Brozovic",
+            "number": "11",
+            "team": "Croatia",
+            "position": "midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Croatia",
+            "kit": [
+                {
+                    "colours": ["red","white","blue"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["midnight blue","tomato"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack forward wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "cro",
+            "order": 1
+        },
+        {
+            "id": 88,
+            "name": "Marcus Rashford",
+            "number": "19",
+            "team": "England",
+            "position": "striker",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "England",
+            "kit": [
+                {
+                    "colours": ["white","red"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["red","maroon"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack forward wc lions",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "eng",
+            "order": 1
+        },
+        {
+            "id": 89,
+            "name": "Mohammed Salah",
+            "number": "10",
+            "team": "Egypt",
+            "position": "winger",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Egypt",
+            "kit": [
+                {
+                    "colours": ["red","white","black"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","black"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "forward attack wc king mo",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "egy",
+            "order": 1
+        },
+        {
+            "id": 90,
+            "name": "Oghenekaro Etebo",
+            "number": "8",
+            "team": "Nigeria",
+            "position": "midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Nigeria",
+            "kit": [
+                {
+                    "colours": ["green","white","black"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["sea green","pale green"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack forward eagles naija",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-14",
+            "class": "nga",
+            "order": 1
+        },
+        {
+            "id": 91,
+            "name": "Raúl Jiménez",
+            "number": "9",
+            "team": "Mexico",
+            "position": "forward",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Mexico",
+            "kit": [
+                {
+                    "colours": ["green","white","red"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","maroon","teal"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "forward attack wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-13",
+            "class": "mex",
+            "order": 1
+        },
+        {
+            "id": 92,
+            "name": "Renato Tapia",
+            "number": "13",
+            "team": "Peru",
+            "position": "midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Peru",
+            "kit": [
+                {
+                    "colours": ["white","red"],
+                    "brand": "Umbro",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["fire brick red","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "world cup russia midfielder",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-13",
+            "class": "per",
+            "order": 1
+        },
+        {
+            "id": 93,
+            "name": "Robert Lewandowski",
+            "number": "9",
+            "team": "Poland",
+            "position": "striker",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Poland",
+            "kit": [
+                {
+                    "colours": ["white","red"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": true
+                },
+                {
+                    "colours": ["red","maroon","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": true
+                }
+            ],
+            "tags": "attack forward wc lewi",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-13",
+            "class": "pol",
+            "order": 1
+        },
+        {
+            "id": 94,
+            "name": "Sadio Mané",
+            "number": "10",
+            "team": "Senegal",
+            "position": "winger",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Senegal",
+            "kit": [
+                {
+                    "colours": ["white","green"],
+                    "brand": "Puma",
+                    "sponsor": false,
+                    "captain": true
+                },
+                {
+                    "colours": ["medium sea green","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": true
+                }
+            ],
+            "tags": "wc forward attack captain",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-13",
+            "class": "sen",
+            "order": 1
+        },
+        {
+            "id": 95,
+            "name": "Saúl Ñíguez",
+            "number": "7",
+            "team": "Spain",
+            "position": "central midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Spain",
+            "kit": [
+                {
+                    "colours": ["red","yellow","navy"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["light steel blue","tomato red","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "center wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-13",
+            "class": "spa",
+            "order": 1
+        },
+        {
+            "id": 96,
+            "name": "Shinji Kagawa",
+            "number": "10",
+            "team": "Japan",
+            "position": "midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Japan",
+            "kit": [
+                {
+                    "colours": ["blue","navy","white"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["light grey","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "wc attack forward samurai",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-13",
+            "class": "jpn",
+            "order": 1
+        },
+        {
+            "id": 97,
+            "name": "Son Heung-min",
+            "number": "7",
+            "team": "South Korea",
+            "position": "winger",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "South Korea",
+            "kit": [
+                {
+                    "colours": ["red","black"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","light grey","faded red","faded blue"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack forward wc red devils",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-13",
+            "class": "kor",
+            "order": 1
+        },
+        {
+            "id": 98,
+            "name": "Thomas Lemar",
+            "number": "8",
+            "team": "France",
+            "position": "attacking midfielder",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "France",
+            "kit": [
+                {
+                    "colours": ["blue","navy","white","red"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","midnight blue"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack forward wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-13",
+            "class": "fra",
+            "order": 1
+        },
+        {
+            "id": 99,
+            "name": "Timo Werner",
+            "number": "9",
+            "team": "Germany",
+            "position": "striker",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Germany",
+            "kit": [
+                {
+                    "colours": ["white","black"],
+                    "brand": "Adidas",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["teal","dark cyan","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack forward wc deutschland",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-13",
+            "class": "ger",
+            "order": 1
+        },
+        {
+            "id": 100,
+            "name": "Wahbi Khazri",
+            "number": "10",
+            "team": "Tunisia",
+            "position": "forward",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Tunisia",
+            "kit": [
+                {
+                    "colours": ["white","red"],
+                    "brand": "UHLSport",
+                    "sponsor": false,
+                    "captain": true
+                },
+                {
+                    "colours": ["red","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack forward wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-13",
+            "class": "tun",
+            "order": 1
+        },
+        {
+            "id": 101,
+            "name": "Willian",
+            "number": "19",
+            "team": "Brazil",
+            "position": "winger",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Brazil",
+            "kit": [
+                {
+                    "colours": ["yellow","green","blue","white"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["royal blue","white","medium sea green"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "attack forward cbf wc",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-13",
+            "class": "bra",
+            "order": 1
+        },
+        {
+            "id": 102,
+            "name": "Xherdan Shaqiri",
+            "number": "23",
+            "team": "Switzerland",
+            "position": "a winger",
+            "competition": {
+                "year": "2018",
+                "title": "World Cup",
+                "location": "Russia"
+            },
+            "nationality": "Switzerland",
+            "kit": [
+                {
+                    "colours": ["red","white"],
+                    "brand": "Puma",
+                    "sponsor": false,
+                    "captain": false
+                },
+                {
+                    "colours": ["white","light grey"],
+                    "brand": "Nike",
+                    "sponsor": false,
+                    "captain": false
+                }
+            ],
+            "tags": "forward attack wc swiss",
+            "collection": "WC2018",
+            "dateAdded": "2018-07-13",
+            "class": "swi",
+            "order": 1
+        }
+    ]
+}
