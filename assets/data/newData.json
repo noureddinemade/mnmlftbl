@@ -1,0 +1,42 @@
+{
+    "players": [
+
+        {
+
+            "id": 0,
+            "name": "Roberto Carlos",
+            "nationality": "Brazilian",
+            "tags": "roberto carlos brazil brazilian national defence defender offense offensive left back nike yellow green blue white 6 1998 world cup france",
+
+            "kit": [
+
+                {
+                    "position": "offensive left back",
+                    "team": "Brazil",
+                    "number": "6",              
+                    "brand": "nike",
+                    "sponsor": false,
+                    "captain": false,
+                    "colours": ["yellow","green","blue","white"],
+                    "collection": "classic",
+                    "class": "bra",
+                    "img": "01",
+
+                    "competion": [
+
+                        {
+                            "year": "1998",
+                            "location": "France",
+                            "title": "World Cup"
+                        }
+
+                    ]
+
+                }
+
+            ]
+
+        }
+
+    ]    
+}
